@@ -16,9 +16,9 @@
   </bean>
     
   <bean name="address" class="test.Address">
-    <property name="doorNumber" value="99"/>
-    <property name="firstLine" value="Teachers colony"/>
-    <property name="secondLine" value="Gannavaram, Vijayawada"/>
-    <property name="zipCode" value="521102"/>
+    <property name="doorNumber" value="45"/>
+    <property name="firstLine" value="pragathi colony"/>
+    <property name="secondLine" value="ongole, prakasam"/>
+    <property name="zipCode" value="523001"/>
   </bean>
 </beans>
