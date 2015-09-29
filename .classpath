@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-aop-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-aop-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-aop-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-aspects-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-aspects-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-aspects-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-beans-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-beans-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-beans-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-context-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-context-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-context-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-context-support-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-context-support-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-context-support-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-core-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-core-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-core-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-expression-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-expression-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-expression-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-instrument-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-instrument-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-instrument-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-instrument-tomcat-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-instrument-tomcat-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-instrument-tomcat-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-jdbc-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-jdbc-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-jdbc-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-jms-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-jms-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-jms-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-messaging-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-messaging-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-messaging-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-orm-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-orm-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-orm-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-oxm-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-oxm-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-oxm-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-test-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-test-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-test-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-tx-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-tx-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-tx-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-web-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-web-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-web-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-webmvc-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-webmvc-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-webmvc-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-webmvc-portlet-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-webmvc-portlet-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-webmvc-portlet-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-websocket-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-websocket-4.2.1.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Spring jars/spring-websocket-4.2.1.RELEASE-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+   <bean id="helloWorld" class="test.HelloWorld">
+       <property name="message" value="Hello Sowjanya!"/>
+   </bean>
+ <bean name="person" class="test.Person">
+    <constructor-arg value="Lakshmi Sowjanya" />
+    <constructor-arg value="Mamillapalli" />
+    <property name="age" value="22"/>
+    <property name="address" ref="address"/>
+  </bean>
+    
+  <bean name="address" class="test.Address">
+    <property name="doorNumber" value="99"/>
+    <property name="firstLine" value="Teachers colony"/>
+    <property name="secondLine" value="Gannavaram, Vijayawada"/>
+    <property name="zipCode" value="521102"/>
+  </bean>
+</beans>
